@@ -1,10 +1,13 @@
 _repo: Dead-Man-s-Planet_61919
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Hall
     gutenberg_agent_id: '51676'
     url: http://www.gutenberg.org/2009/agents/51676
+covers:
+- cover_type: archival
+  image_path: 61919-h/images/cover.jpg
 creator:
   author:
     agent_name: Winterbotham, R. R. (Russell Robert)
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25195
     wikipedia: https://en.wikipedia.org/wiki/Russell_R._Winterbotham
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/61919#Dead-Man-s-Planet
 gutenberg_issued: '2020-04-24'
 gutenberg_type: Text
 identifiers:
